@@ -3,6 +3,6 @@
 <h1>screenshot</h1>
 <ul>
   <li>
-    <a src="pre1.png"></a>
+    <a src="portfolio/pre1.png"></a>
   </li>
 </ul>
