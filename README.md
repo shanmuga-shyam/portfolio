@@ -3,6 +3,9 @@
 <h1>screenshot</h1>
 <ul>
   <li>
-    <a src="portfolio/pre1.png"></a>
+    <h2>On Desktop </h2>
+    <img src="portfolio/pre1.png"><br><br><br><br>   
   </li>
+
 </ul>
+
